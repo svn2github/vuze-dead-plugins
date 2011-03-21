@@ -11,8 +11,8 @@
         </sealing>
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
-        <javaElement handleIdentifier="=aznetmon/&lt;com.azureus.plugins.aznetmon.util"/>
         <javaElement handleIdentifier="=aznetmon/&lt;com.azureus.plugins.aznetmon.main"/>
         <file path="/aznetmon/plugin.properties"/>
     </selectedElements>
+    <fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
 </jardesc>
